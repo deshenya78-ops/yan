@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+generated/*.docx
+generated/*.pdf
+!generated/.gitkeep
+.pytest_cache/
